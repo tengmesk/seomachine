@@ -51,17 +51,9 @@ topics/*
 !topics/.gitkeep
 !topics/example-topic-idea.md
 
-research/*
-!research/.gitkeep
-
-drafts/*
-!drafts/.gitkeep
-
-published/*
-!published/.gitkeep
-
-rewrites/*
-!rewrites/.gitkeep
+# Generated content IS version-controlled (policy changed 2026-06-30).
+# research/, drafts/, published/, and rewrites/ are committed so the content
+# pipeline lives in the repo and is visible on GitHub.
 
 # Don't ignore context files - these should be committed after customization
 # !context/
