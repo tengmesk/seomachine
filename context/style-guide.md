@@ -1,118 +1,80 @@
-# Castos Style Guide
+# Concept Digital Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial guidelines for all Castos content.
+This guide defines writing conventions, formatting standards, and editorial rules for all Concept Digital content. It governs **mechanics and formatting**; for tone, voice pillars, and messaging, see `brand-voice.md`, and for the SEO rules see `seo-guidelines.md`.
 
-## Instructions
-Fill in this template with Castos-specific style preferences. Update as the style guide evolves.
+Concept Digital is a London-based custom software development and staff augmentation firm. Content is written for business decision-makers (CTOs, founders, product leaders) at SMEs and enterprise companies. The register is semi-formal, confident, and outcome-first.
+
+---
+
+## Language & Spelling
+
+- **UK English throughout.** Use "organise," "optimise," "specialise," "centre," "colour," "behaviour," "licence" (noun) / "license" (verb), "-ise" not "-ize."
+- **No US spellings.** "Maximise" not "maximize," "prioritise" not "prioritize."
+- This applies to body copy, headings, metadata, and alt text alike.
 
 ---
 
 ## Grammar & Mechanics
 
-### Capitalization
+### Capitalisation
 
-**Headlines & Subheadings**:
-- [ ] Title Case (Capitalize Major Words)
-- [ ] Sentence case (Only capitalize first word)
-- **Decision**: [Choose one and document here]
-
-**Product Names**:
-- Castos: [Always capitalized]
-- Seriously Simple Podcasting: [Capitalization style]
-- [Other Castos products]: [Style]
-
-**Industry Terms**:
-- podcast / Podcast: [Choose one]
-- podcaster / Podcaster: [Choose one]
-- RSS / rss: [RSS (always caps)]
-- [Add other common terms]
+- **Headlines & subheadings**: **Title Case** — capitalise the major words (e.g. "How to Choose a Custom Software Development Company in London").
+- **Brand name**: "Concept Digital" (both words capitalised). Never "ConceptDigital" in prose; the closed form is only for the domain (conceptdigital.com).
+- **Services**: capitalise as proper service names when referring to the offering — Custom Software Development, Staff Augmentation, MVP Development, DevOps, UI/UX Design, Data & BI Solutions. Lowercase when used generically ("we build custom software").
+- **Job titles**: capitalise specific titles before a name (CTO Jane Smith); lowercase generic references ("a chief technology officer").
 
 ### Numbers
 
-**When to Spell Out**:
-- Spell out: One through nine
-- Use numerals: 10 and above
-- Exceptions:
-  - Percentages: Always use numerals (5%, 50%)
-  - Money: Always use numerals ($5, $500)
-  - Measurements: Always use numerals (5 GB, 50 MB)
-  - Lists/stats: Always use numerals for scannability
-
-**Large Numbers**:
-- 1,000+ (use comma)
-- 1 million (spell out million, billion, etc.)
-- $5,000 or $5K? [Choose convention]
+- **Spell out** one to nine; **use numerals** for 10 and above.
+- **Always numerals** for: percentages (97%), money (£5,000), measurements, statistics, and items in lists or tables for scannability.
+- **Large numbers**: use a comma separator (20,000+); spell out "million"/"billion" (£5 million, not £5,000,000, in prose — numerals with commas are fine in tables and data contexts).
+- **Currency**: default to **£ (GBP)**. When a figure is genuinely in another currency, state it (€5 million, $120,000). Symbol before the numeral, no space (£8,000).
 
 ### Punctuation
 
-**Oxford Comma**:
-- [ ] Yes (A, B, and C)
-- [ ] No (A, B and C)
-- **Decision**: [Choose and document]
-
-**Em Dashes**:
-- Style: — (em dash, no spaces) or - - (hyphens with spaces)
-- Usage: For parenthetical statements or emphasis
-- Example: "Podcast analytics—when used correctly—drive better content decisions."
-
-**Quotation Marks**:
-- "Straight quotes" or "Curly quotes"?
-- **Decision**: [Choose one]
-
-**Ellipses**:
-- Three dots: ...
-- Spacing: no spaces before or after
-- Use sparingly: Primarily for omitted text in quotes
+- **Oxford comma: Yes.** "Engineers, designers, and product managers."
+- **Em dashes**: use sparingly for parenthetical emphasis. Note that the content scrubber converts em dashes to commas/semicolons/periods before publishing, so do not rely on them structurally — prefer commas or full stops.
+- **Quotation marks**: straight quotes (" ") for web content, not curly, to avoid markdown and encoding issues.
+- **Ellipses**: use sparingly, only for omitted text in quotations. No space before or after.
 
 ### Abbreviations & Acronyms
 
-**First Use**:
-- Spell out on first use, acronym in parentheses
-- Example: "Really Simple Syndication (RSS) feeds distribute..."
-- Exceptions for universally known: SEO, URL, CTA
+- **Spell out on first use**, acronym in parentheses: "software development lifecycle (SDLC)." Thereafter use the acronym.
+- **Spell out SDLC** the first time for non-technical decision-makers, even though it is common internally.
+- **Universally known acronyms** need no expansion: SEO, URL, CTA, API, UK, MVP.
+- **Avoid Latin abbreviations** (e.g., i.e., etc.) in favour of plain English ("for example," "that is," "and so on").
 
-**Common Podcasting Acronyms**:
-- RSS: Really Simple Syndication
-- DAI: Dynamic Ad Insertion
-- SEO: Search Engine Optimization
-- IAB: Interactive Advertising Bureau
-- [Add others as needed]
-
-**Latin Abbreviations**:
-- e.g. (for example): [Use or avoid?]
-- i.e. (that is): [Use or avoid?]
-- etc. (and so forth): [Use or avoid?]
-- **Decision**: [Generally avoid in favor of plain English]
+**Common acronyms in our space**: MVP (Minimum Viable Product), SDLC (Software Development Lifecycle), CI/CD (Continuous Integration / Continuous Delivery), QA (Quality Assurance), BA (Business Analyst), ML (Machine Learning), BI (Business Intelligence), FCA (Financial Conduct Authority).
 
 ---
 
 ## Word Choice & Usage
 
-### Preferred Terms
+### Preferred Terms (Say This → Not That)
 
-**Say This** → **Not That**:
-- podcast creators → podcasters
-- podcast hosting → podcast storage
-- listeners → subscribers
-- audio quality → sound quality
-- show notes → episode notes / shownotes
-- podcast episode → podcast show (episode is unit, show is series)
-- analytics → stats
-- monetize → monetise (US spelling)
-- [Add Castos-specific preferences]
+These reinforce the brand positioning. The full rationale is in `brand-voice.md`.
+
+- **partner** → vendor / provider / supplier
+- **tailor-made / bespoke / tailored** → custom-built generic / one-size-fits-all
+- **staff augmentation** → outsourcing (when referring to talent placement specifically)
+- **drive efficiency / drive growth** → improve things / make better
+- **end-to-end** → full-service
+- **software development lifecycle** (then SDLC) → "the dev process"
+- **get in touch / book a call** → matches the site's actual CTAs
 
 ### Words to Avoid
-- Avoid jargon without explanation
-- Avoid "very", "really", "actually" (usually unnecessary)
-- Avoid passive constructions when active is clearer
-- Avoid "click here" or "read more" (use descriptive links)
-- [Add other words/phrases to avoid]
+
+- **Hype superlatives without proof**: "world-class," "cutting-edge," "next-generation," "future-proof," "revolutionary."
+- **Filler amplifiers**: "very," "really," "truly," "actually," "basically."
+- **Exclamation marks** — confidence is declarative (see `brand-voice.md`).
+- **Generic link text**: "click here," "read more," "learn more" — use descriptive anchors.
+- **Urgency language**: "now," "today," "limited time" — contradicts the partner positioning.
 
 ### Inclusive Language
-- Use gender-neutral language ("they" instead of "he/she")
-- "Podcast creator" or "podcaster" instead of gendered terms
-- Avoid idioms that may not translate globally
-- Be mindful of accessibility in descriptions
+
+- Use gender-neutral language ("they," "the engineer," "the founder").
+- Avoid idioms that do not translate across international audiences (our readers and clients span multiple countries).
+- Write accessibly: define technical terms on first use; never assume the reader is an engineer.
 
 ---
 
@@ -120,300 +82,143 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 
 ### Text Formatting
 
-**Bold**:
-- Use for: Key concepts, important takeaways, emphasis
-- Don't overuse: If everything is bold, nothing stands out
-- Example: "**Keyword density** should be 1-2% for optimal results."
-
-**Italics**:
-- Use for: Emphasis (sparingly), titles of works, foreign phrases
-- Example: "The term *podcast* combines 'iPod' and 'broadcast'."
-
-**Underline**:
-- Generally avoid (reserve for links)
-
-**ALL CAPS**:
-- Avoid except for standard acronyms (RSS, SEO, URL)
+- **Bold**: for key concepts, takeaways, and the first phrase of a definition. Do not over-bold; if everything is bold, nothing stands out.
+- **Italics**: sparingly, for genuine emphasis, titles of works, or a foreign phrase.
+- **Underline**: reserved for links only.
+- **ALL CAPS**: avoid except standard acronyms.
 
 ### Lists
 
-**Bulleted Lists**:
-- Use for: Non-sequential items, features, benefits
-- Capitalization: [Sentence case or Title Case?]
-- Punctuation: [Period at end of each item or no punctuation?]
-- **Decision**:
-  - Capitalize first word
-  - Period if complete sentence, no period if fragment
-  - Parallel structure (all sentences or all fragments)
-
-**Numbered Lists**:
-- Use for: Sequential steps, rankings, ordered priorities
-- Format: 1. 2. 3. (with period after number)
-- Same capitalization and punctuation rules as bullets
-
-**Nested Lists**:
-- Maximum 2 levels deep for readability
-- Use different markers for sub-items
+- **Numbered lists** for sequential steps, processes, SDLC phases, or ranked priorities.
+- **Bulleted lists** for non-sequential items: features, benefits, criteria, roles.
+- **Parallel structure**: every item starts the same way (all verbs, all nouns, or all complete sentences).
+- **Capitalise** the first word of each item. End with a full stop only if the item is a complete sentence.
+- **Maximum 6–7 items** per list; break longer lists into grouped subsections.
+- **Nesting**: maximum two levels deep.
 
 ### Links
 
-**Anchor Text**:
-- Descriptive (tell reader where they're going)
-- Keyword-rich when possible
-- 2-5 words typically
-- ✅ "Learn more about podcast SEO"
-- ❌ "Click here"
+- **Anchor text**: descriptive and keyword-rich, 2–5 words. "custom web development services," not "click here."
+- **Internal links**: link to the most specific relevant page; follow `internal-links-map.md` for targets, tiering, and anchor variation.
+- **External links**: open in a new tab; cite authoritative sources for statistics.
 
-**Link Formatting**:
-- Color: [Default blue or Castos brand color?]
-- Underline: [Yes/No]
-- Open in new tab: [Only for external links]
+### Tables
+
+- Use tables for comparisons, pricing bands, and specifications — they are scannable and win featured snippets.
+- Keep headers clear; left-align text, and keep cell content concise.
 
 ### Code & Technical Elements
 
-**Inline Code**:
-- Use backticks for: URLs, file names, code snippets
-- Example: "Your RSS feed URL is `https://feeds.castos.com/...`"
+- **Inline code** (backticks) for: file names, URLs, commands, and short code references.
+- **Code blocks** with a language identifier for any multi-line code or configuration.
 
-**Code Blocks**:
-- Use for: Multi-line code, configuration examples
-- Include language identifier for syntax highlighting
+### Callouts
 
-### Callout Boxes / Asides
-
-**When to Use**:
-- Important notes or warnings
-- Pro tips or expert insights
-- Key takeaways or summaries
-
-**Format**:
-- [Define how to format: blockquote, box, highlighted section?]
-- Example style to be determined
+- Use a blockquote for key takeaways, important notes, or a TL;DR block (see `seo-guidelines.md` for the required Key Takeaways format).
 
 ---
 
 ## Content Structure
 
-### Article Introduction
-**Standard Structure** (150-250 words):
-1. **Hook** (1-2 sentences): Grab attention with question, statistic, or bold statement
-2. **Problem** (2-3 sentences): What challenge or question does this address?
-3. **Promise** (2-3 sentences): What will reader learn/achieve?
-4. **Credibility** (optional, 1-2 sentences): Why trust this source?
+### Introduction (150–250 words)
 
-**Keyword Placement**:
-- Must include primary keyword in first 100 words
-- Natural integration, not forced
+1. **Direct answer first** (AI search): the first 1–2 sentences answer the query directly (see `seo-guidelines.md`).
+2. **Hook**: a question, scenario, statistic, or bold statement, not a generic definition.
+3. **Promise**: what the reader will learn or be able to do.
+4. **Keyword**: primary keyword within the first 100 words.
 
 ### Section Length
-- **Minimum**: 150 words per section
-- **Maximum**: 500 words per section (break into subsections if longer)
-- **Ideal**: 250-350 words per main section
 
-### Conclusion
-**Standard Structure** (150-250 words):
-1. **Recap** (3-5 bullet points or paragraph): Key takeaways
-2. **Action** (1-2 sentences): What should reader do next?
-3. **CTA** (1-2 sentences): Call-to-action (trial, resource, related content)
-4. **Forward-looking** (optional, 1 sentence): Encouraging final thought
+- **Minimum** 150 words per H2 section; **ideal** 250–350; break sections over ~500 words into subsections.
+- One idea per section (helps both readers and AI citation).
+
+### Conclusion (150–250 words)
+
+1. **Recap** the key takeaways (3–5 points).
+2. **Next step** for the reader.
+3. **CTA** — verb-first, 2–3 words ("Get In Touch," "Book a Call"), matched to funnel stage.
 
 ---
 
 ## SEO-Specific Style
 
-### Meta Titles
-- 50-60 characters including spaces
-- Include primary keyword
-- Include "| Castos" if space allows
-- No ending punctuation
+(Full rules in `seo-guidelines.md`; the style essentials:)
 
-### Meta Descriptions
-- 150-160 characters including spaces
-- Include primary keyword
-- Include call-to-action
-- End with complete thought
-
-### URL Slugs
-- Lowercase only
-- Hyphens between words
-- Include primary keyword
-- 3-5 words ideal
-- Format: `/blog/primary-keyword-phrase`
-
-### Alt Text
-- Describe what image shows
-- Include keyword naturally if relevant
-- 125 characters or less
-- No "image of" or "picture of" (implied)
+- **Meta titles**: 50–60 characters, include the primary keyword, append "| Concept Digital" only if it fits. No ending punctuation.
+- **Meta descriptions**: 150–160 characters, include the keyword, directly answer the query, end on a complete thought with a soft CTA.
+- **URL slugs**: lowercase, hyphenated, include the primary keyword, 3–5 words. Format `/blog/primary-keyword-phrase`.
+- **Alt text**: describe the image, include a keyword where natural, 125 characters or fewer, no "image of."
 
 ---
 
 ## Dates & Time
 
-**Date Format**:
-- Month DD, YYYY (January 15, 2025)
-- Or: DD Month YYYY (15 January 2025)
-- **Decision**: [Choose one]
-
-**Time**:
-- 12-hour format with a.m./p.m.: 3:00 p.m.
-- Or: 24-hour format: 15:00
-- **Decision**: [Choose one]
-
-**Time Zones**:
-- Specify when relevant: "3:00 p.m. EST"
-- Or use: "3:00 p.m. Eastern Time"
+- **Dates**: UK format — **DD Month YYYY** (28 June 2026). Use this in body copy and "Last Updated" lines.
+- **Time**: 12-hour with lowercase am/pm (9:00am, 3:30pm). Specify the time zone when relevant (GMT/BST).
 
 ---
 
 ## Statistics & Data
 
-### Citing Sources
-- Always cite statistics with sources
-- Format: "According to [Source], [statistic]."
-- Link to original source when possible
-- Include year of data: "In 2024, podcast listeners reached..."
-
-### Presenting Numbers
-- Round large numbers for readability: "1.2 million" not "1,234,567"
-- Use % symbol: 15% (not "percent")
-- Use $ for money: $500 (not "dollars")
-- Include commas: 10,000 not 10000
+- **Always cite sources** for statistics: "According to [source], …," with a link to the original where possible. Include the year for time-sensitive data.
+- **Use our own metrics with the possessive and full context**: "our 97% client satisfaction rate," "our network of 20,000+ professionals across 13 countries." Only cite figures that are verified (see `features.md`).
+- **Round large numbers** in prose for readability ("£5 million," not "£5,000,000").
+- **Never fabricate** volumes, client names, or outcomes. If a figure is an estimate, label it as such.
 
 ---
 
-## Images & Media
+## Brand & Competitor References
 
-### Image Captions
-- [ ] Required for all images
-- [ ] Optional, only when needed for context
-- **Decision**: [Choose one]
+### Concept Digital
 
-**Caption Style**:
-- Sentence case
-- End with period if complete sentence
-- Placement: Below image
+- "Concept Digital" on first and subsequent mentions (not "the Concept Digital platform").
+- Headquarters reference where it adds a UK trust signal: London (24 Wharf Road, N1 7GQ).
+- Pair the London HQ with the global delivery footprint (13 countries) when scale is relevant.
 
-### Screenshots
-- Include relevant screenshots when helpful
-- Crop to show only relevant portion
-- Add arrows/highlights if needed to draw attention
-- Alt text should describe what's shown
+### Client References
 
-### Charts & Graphs
-- Include data visualization when it helps understanding
-- Keep design simple and clean
-- Always provide context in surrounding text
-- Alt text should describe the key finding, not just "chart"
+- Use named clients only as supported in `features.md` / `internal-links-map.md` (e.g. Rex, Forbes, Halocarbon, Theneo). Do not assert unverified details (round type, location, industry) beyond what those files support.
 
----
+### Competitors
 
-## Brand-Specific Guidelines
-
-### Castos Product References
-
-**Castos Platform**:
-- "Castos" (not "the Castos platform" unless needed for clarity)
-- "Castos analytics dashboard"
-- [Add other product-specific terms]
-
-**Features**:
-- [List how to refer to specific features]
-- [Capitalization conventions for features]
-
-### Competitor References
-- [ ] Name competitors directly when relevant
-- [ ] Use generic terms ("other podcast hosts")
-- **Decision**: [Choose approach]
-
-**If Naming Competitors**:
-- Be fair and factual
-- No disparaging language
-- Focus on differentiation, not criticism
-
----
-
-## Accessibility
-
-### Screen Reader Friendly
-- Descriptive link text (not "click here")
-- Image alt text for all images
-- Proper heading hierarchy (H1→H2→H3, no skipping)
-- Descriptive link previews
-
-### Plain Language
-- Write at 8th-10th grade level
-- Define technical terms on first use
-- Use short sentences and paragraphs
-- Break complex ideas into digestible chunks
-
----
-
-## Voice & Tone Reminders
-
-### Core Voice Characteristics
-1. Professional yet approachable
-2. Educational and empowering
-3. Podcast creator advocate
-4. Technically accurate but accessible
-5. Results and growth-focused
-
-### Tone Variations
-- **How-to content**: Instructive, step-by-step, encouraging
-- **Strategic content**: Authoritative, experienced, actionable
-- **Industry news**: Insightful, analytical, forward-looking
-- **Product content**: Benefit-focused, clear, honest
+- Name competitors when genuinely relevant (Ciklum, Andersen, N-iX, Timspark); be fair and factual.
+- Focus on differentiation, never disparagement. Compete on London trust signals, talent quality, and proof, not criticism.
 
 ---
 
 ## Editing Checklist
 
-Before publishing any content:
+Before publishing, verify:
 
-**Grammar & Mechanics**:
-- [ ] Spelling checked
-- [ ] Grammar checked
-- [ ] Punctuation correct (Oxford comma, em dashes, etc.)
-- [ ] Numbers formatted consistently
-- [ ] Dates formatted correctly
+**Mechanics**
+- [ ] UK spelling throughout
+- [ ] Title Case headings
+- [ ] Oxford comma used
+- [ ] Numbers and currency formatted per the rules above
+- [ ] Dates in DD Month YYYY format
 
-**Style**:
-- [ ] Follows capitalization guidelines
-- [ ] Uses preferred terminology
-- [ ] Consistent formatting (bold, italics, lists)
-- [ ] Links are descriptive
-- [ ] Voice and tone appropriate
+**Style**
+- [ ] Preferred terminology ("partner" not "vendor," etc.)
+- [ ] No banned words (hype superlatives, filler, exclamation marks, urgency)
+- [ ] Descriptive link anchors
+- [ ] Consistent bold/italic/list formatting
 
-**Structure**:
-- [ ] Strong introduction (hook, problem, promise)
-- [ ] Logical section flow
-- [ ] Proper heading hierarchy
-- [ ] Effective conclusion with CTA
-- [ ] Appropriate section lengths
+**Structure**
+- [ ] Direct answer + hook in the introduction
+- [ ] Logical section flow, one idea per section
+- [ ] Proper H1 > H2 > H3 hierarchy
+- [ ] Effective conclusion with a funnel-appropriate CTA
 
-**SEO**:
-- [ ] Keyword integrated naturally
-- [ ] Meta elements optimized
-- [ ] Internal and external links included
-- [ ] Images have alt text
-- [ ] URL slug optimized
-
-**Quality**:
-- [ ] Factually accurate
-- [ ] Sources cited
+**Quality**
+- [ ] Factually accurate, sources cited
 - [ ] No broken links
-- [ ] Provides genuine value
-- [ ] Ready for publication
+- [ ] Brand voice maintained (see `brand-voice.md`)
+- [ ] Genuine value for a business decision-maker
 
 ---
 
-## Updates & Maintenance
+**Style Guide Version**: 2.0 (Concept Digital)
+**Last Updated**: 30 June 2026
+**Next Review**: 30 September 2026
 
-**Style Guide Version**: 1.0
-**Last Updated**: [Date]
-**Next Review**: [Date]
-
-This style guide is a living document. Update as Castos brand and voice evolve.
-
-**Questions or Additions?**
-If you encounter a style question not covered here, make a decision, document it, and add it to this guide for future reference.
+This is a living document. When you encounter a style question not covered here, make a decision, apply it consistently, and add it to this guide.
