@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Change Report &amp; Merge Quiz — 7 July 2026</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 880px; margin: 2rem auto; padding: 0 1.25rem; color: #1a1a2e; line-height: 1.55; }
+  h1 { border-bottom: 3px solid #4a5fc1; padding-bottom: .4rem; }
+  h2 { color: #4a5fc1; margin-top: 2rem; }
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+  th, td { border: 1px solid #d5d9e8; padding: .5rem .7rem; text-align: left; vertical-align: top; }
+  th { background: #eef1fb; }
+  .pass { color: #0a7a3d; font-weight: 600; }
+  .warn { color: #b45309; font-weight: 600; }
+  details { background: #f6f7fc; border: 1px solid #d5d9e8; border-radius: 8px; padding: .7rem 1rem; margin: .6rem 0; }
+  summary { cursor: pointer; font-weight: 600; }
+  .q { margin: 1.1rem 0; padding: .9rem 1rem; background: #fff; border-left: 4px solid #4a5fc1; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  code { background: #eef1fb; padding: .1rem .35rem; border-radius: 4px; font-size: .92em; }
+</style>
+</head>
+<body>
+
+<h1>Change Report &amp; Merge Quiz</h1>
+<p><strong>Session:</strong> Field-guide adoption + pillar article finalization · <strong>7 July 2026</strong></p>
+
+<h2>What actually changed</h2>
+<table>
+  <tr><th>Area</th><th>Change</th><th>Status</th></tr>
+  <tr><td><code>docs/agentic-workflow.md</code></td><td>New: 8 field-guide practices adapted to the SEO Machine pipeline + 3 standing decisions (quality gate, fact discipline, data honesty)</td><td class="pass">Added</td></tr>
+  <tr><td><code>CLAUDE.md</code></td><td>New "Working Method" section loaded every session</td><td class="pass">Added</td></tr>
+  <tr><td><code>drafts/custom-software-development-london-2026-06-28.md</code></td><td>20 edits: exact-phrase placement (H1/meta/intro/conclusion), bespoke H2, 4 internal links added + 1 removed + 2 anchors improved, meta description 164→150 chars, readability splits + transitions, real external sources, author = Tengiz Meskhi (CEO), <strong>Rex £5M→€5M currency fix</strong></td><td class="pass">Score 85.4 / PASSED</td></tr>
+  <tr><td><code>context/style-guide.md</code>, <code>context/seo-guidelines.md</code></td><td>(Previous session, uncommitted) Full Castos→Concept Digital rebrand</td><td class="pass">In this PR</td></tr>
+  <tr><td><code>drafts/</code> (5 report files)</td><td>(Previous session, uncommitted) Optimization agent reports</td><td class="pass">In this PR</td></tr>
+  <tr><td>docs: plan / notes / explainer / this report</td><td>Field-guide artifacts for this change</td><td class="pass">Added</td></tr>
+  <tr><td>Video embed in pillar</td><td>Still an explicit TODO — needs a real YouTube URL from the team before WordPress publish</td><td class="warn">Open</td></tr>
+</table>
+
+<h2>Merge quiz — can you pass it?</h2>
+<p>Per the field guide: if you can't answer these, read the explainer and notes before merging.</p>
+
+<div class="q">
+  <strong>Q1.</strong> A factual error survived drafting, scrubbing, quality scoring, AND all five optimization agents — and was only caught in the final human-style review pass. What was it?
+  <details><summary>Answer</summary>The article said Rex raised <strong>£5 million</strong> (twice). The verified figure is <strong>€5 million</strong>. Automated checks verified the claim existed, not that the currency unit was consistent with the source.</details>
+</div>
+
+<div class="q">
+  <strong>Q2.</strong> The repo had two quality rubrics that disagreed (85.2 vs 77.8 on the same article). Which one is now the publish gate, and what are the other five reports for?
+  <details><summary>Answer</summary><code>content_scorer.py</code> composite ≥70 is the gate. The five <code>/write</code> agent reports (analyzer, seo-optimizer, meta-creator, internal-linker, keyword-mapper) are advisory inputs to reconcile — documented in <code>docs/agentic-workflow.md</code>.</details>
+</div>
+
+<div class="q">
+  <strong>Q3.</strong> Who is credited as the article's author, and how was the name obtained?
+  <details><summary>Answer</summary>Tengiz Meskhi, Chief Executive Officer. You chose "use the CEO's name" in the interview; the exact name was then <em>verified from the live conceptdigital.com/about page</em>, not guessed.</details>
+</div>
+
+<div class="q">
+  <strong>Q4.</strong> The article now has 11 internal links, but the internal-links map says max 7 for articles under 3,000 words. Why was this accepted?
+  <details><summary>Answer</summary>Deliberate deviation, logged in the notes: it's pillar-class content (3,500+ target class), and every link is a Tier 1/2 target explicitly recommended by the internal-linker agent. The ≤7 rule carves out an exception for 3,000+ word articles.</details>
+</div>
+
+<div class="q">
+  <strong>Q5.</strong> What must still happen before this article can be published to WordPress?
+  <details><summary>Answer</summary>(1) Replace the italic video-embed TODO with a real YouTube URL; (2) optionally add a named reviewer; (3) WordPress itself isn't connected yet — publishing requires the WordPress credentials or manual upload.</details>
+</div>
+
+<div class="q">
+  <strong>Q6.</strong> Where would the next session look to understand why any of these decisions were made?
+  <details><summary>Answer</summary><code>docs/notes-2026-07-07-field-guide-adoption.md</code> (every deviation logged), <code>docs/plan-2026-07-07-field-guide-adoption.md</code> (the decisions table), and <code>docs/agentic-workflow.md</code> (the standing method).</details>
+</div>
+
+<p style="margin-top:2rem"><em>Generated as part of the field-guide "Reports &amp; Quizzes" practice — pass the quiz before merging.</em></p>
+</body>
+</html>

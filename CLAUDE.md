@@ -2,6 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Working Method
+
+Follow the unknowns-reduction workflow in `docs/agentic-workflow.md` for all significant work:
+
+- **Before**: run a blind-spot pass on unfamiliar territory; brainstorm variants for subjective outputs; interview the user on decisions only they can make (never guess names, facts, or publishing targets); use `context/writing-examples.md` as the voice reference; write a short plan to `docs/plan-YYYY-MM-DD-<slug>.md` for substantial changes.
+- **During**: keep implementation notes at `docs/notes-YYYY-MM-DD-<slug>.md` (deviations, edge cases, verified facts).
+- **After**: for significant merges, produce an explainer plus a report + quiz for the reviewer.
+- **Quality gate**: `content_scorer.py` composite ≥70 gates publishing; the five `/write` agent reports are advisory. Any named client, statistic, or URL must trace to `context/` files or the live site.
+
 ## Project Overview
 
 SEO Machine is an open-source Claude Code workspace for creating SEO-optimized blog content. It combines custom commands, specialized agents, and Python-based analytics to research, write, optimize, and publish articles for any business.
