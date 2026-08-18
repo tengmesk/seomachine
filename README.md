@@ -2,7 +2,7 @@
 
 A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
-**This checkout is configured for Concept Digital** - `context/` below holds
+**This checkout is configured for Conceptdigital** - `context/` below holds
 real client data, not blank templates, and `examples/castos/` is the
 original generic reference example rather than what this instance uses. See
 CLAUDE.md for the current cluster in progress.
