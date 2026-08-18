@@ -1,8 +1,8 @@
-# Concept Digital Writing Examples
+# Conceptdigital Writing Examples
 
-This file contains example draft articles written in the Concept Digital (conceptdigital.com) brand voice and style. These are aspirational writing samples for a planned blog section — Concept Digital does not currently have a published blog on the live site. Use these drafts as reference for voice, structure, and quality standards when writing new content.
+This file contains example draft articles written in the Conceptdigital (conceptdigital.com) brand voice and style. These are aspirational writing samples for a planned blog section — Conceptdigital does not currently have a published blog on the live site. Use these drafts as reference for voice, structure, and quality standards when writing new content.
 
-Concept Digital is a London-based custom software development and staff augmentation firm. Target readers are CTOs, founders, and product leaders at SMEs and enterprise companies across fintech, healthcare, logistics, e-commerce, and related sectors. The voice is confident, semi-formal, and outcome-first — never jargon-heavy for its own sake, always pivoting back to the client's business result.
+Conceptdigital is a London-based custom software development and staff augmentation firm. Target readers are CTOs, founders, and product leaders at SMEs and enterprise companies across fintech, healthcare, logistics, e-commerce, and related sectors. The voice is confident, semi-formal, and outcome-first — never jargon-heavy for its own sake, always pivoting back to the client's business result.
 
 ---
 
@@ -10,7 +10,7 @@ Concept Digital is a London-based custom software development and staff augmenta
 
 Before reading the examples, internalize these rules:
 
-1. Lead with the client's business outcome, not Concept Digital's capability.
+1. Lead with the client's business outcome, not Conceptdigital's capability.
 2. Use "tailor-made," "bespoke," or "tailored" for solutions — never "one-size-fits-all."
 3. Pair abstract strategy language with concrete deliverables in the same sentence.
 4. Use "partner" not "vendor" or "provider."
@@ -48,9 +48,9 @@ Before reading the examples, internalize these rules:
 **Topic Cluster**: IT Staff Augmentation
 
 **What Makes It Great**:
-- Leads with the reader's decision, not Concept Digital's services — classic outcome-first framing.
+- Leads with the reader's decision, not Conceptdigital's services — classic outcome-first framing.
 - Uses the brand's characteristic sentence rhythm: short declarative, then one-clause benefit.
-- Naturally weaves in Concept Digital's differentiators (20,000+ network, 13 countries, 97% satisfaction) without making them the focus.
+- Naturally weaves in Conceptdigital's differentiators (20,000+ network, 13 countries, 97% satisfaction) without making them the focus.
 
 **Full Content**:
 ```
@@ -68,7 +68,7 @@ Staff augmentation means adding pre-vetted external professionals to your existi
 What you control: the day-to-day work, priorities, and team dynamics.
 What your augmentation partner controls: talent sourcing, vetting, and employment logistics.
 
-This model is ideal when you have a clear product vision and internal leadership, but lack the headcount or specific skills to execute. At Concept Digital, we draw on a network of 20,000+ vetted technology professionals across 13 countries to match your requirements — typically within days, not months.
+This model is ideal when you have a clear product vision and internal leadership, but lack the headcount or specific skills to execute. At Conceptdigital, we draw on a network of 20,000+ vetted technology professionals across 13 countries to match your requirements — typically within days, not months.
 
 What Is Software Outsourcing?
 -----------------------------
@@ -94,7 +94,7 @@ Staff augmentation tends to be the stronger model when:
 - Your product roadmap is evolving and you need flexibility. Augmented professionals can scale up or down as your needs change.
 - You want to retain institutional knowledge inside your business. Embedded professionals contribute to internal documentation, code reviews, and knowledge transfer in a way that a fully outsourced team rarely does.
 
-A real-world example: Theneo, a Y Combinator-backed DevTools startup building Stripe-like API documentation, worked with Concept Digital to augment their team with software engineers and DevOps professionals who integrated into their existing sprint cadence from day one. The result: faster delivery without the overhead of full-time hires.
+A real-world example: Theneo, a Y Combinator-backed DevTools startup building Stripe-like API documentation, worked with Conceptdigital to augment their team with software engineers and DevOps professionals who integrated into their existing sprint cadence from day one. The result: faster delivery without the overhead of full-time hires.
 
 When to Choose Outsourcing
 --------------------------
@@ -118,7 +118,7 @@ The model you choose shapes your team culture, your delivery velocity, and your 
 A Note on Hybrid Models
 ------------------------
 
-In practice, many companies use both. A fintech company might outsource its initial compliance portal build while simultaneously augmenting its core engineering team to maintain and iterate on the product post-launch. Concept Digital supports both models — and the transitions between them — so your engagement structure can evolve as your business does.
+In practice, many companies use both. A fintech company might outsource its initial compliance portal build while simultaneously augmenting its core engineering team to maintain and iterate on the product post-launch. Conceptdigital supports both models — and the transitions between them — so your engagement structure can evolve as your business does.
 
 How to Make the Decision
 ------------------------
@@ -129,7 +129,7 @@ Ask yourself three questions:
 2. Is the scope well-defined and stable? If yes, outsourcing can work. If the scope is fluid, augmentation gives you more control.
 3. Does this work need to live inside my team long-term? If yes, augmentation builds the continuity. If it's a one-time delivery, outsourcing is sufficient.
 
-If you're still uncertain, the right move is to talk through your specific situation with a partner who understands both models. Our team at Concept Digital has helped businesses across fintech, healthcare, logistics, and retail make this decision — and execute whichever path they choose.
+If you're still uncertain, the right move is to talk through your specific situation with a partner who understands both models. Our team at Conceptdigital has helped businesses across fintech, healthcare, logistics, and retail make this decision — and execute whichever path they choose.
 
 Get In Touch to discuss the right engagement model for your business.
 ```
@@ -223,7 +223,7 @@ Red Flags to Avoid
 - **No technical explanation of their stack choices.** The right technology stack depends on your requirements, not what the agency happens to know. If they can't explain why they're recommending React over Vue.js, or Node.js over Python/Django for your specific use case, ask harder questions.
 - **No post-launch support plan.** A software product is never finished. Maintenance, updates, and performance monitoring are part of the engagement. A company that disappears after launch is not a long-term partner.
 
-What Concept Digital Brings to the Engagement
+What Conceptdigital Brings to the Engagement
 ----------------------------------------------
 
 We support clients across the entire software development lifecycle — from initial requirements through architecture, development, QA, deployment, and ongoing maintenance. Our team has delivered custom web applications, mobile products, internal platforms, and MVPs for clients across fintech, healthcare, logistics, retail, and government.
@@ -247,7 +247,7 @@ Book a Call with our team to start the conversation.
 **What Makes It Great**:
 - Addresses the non-technical founder persona directly — acknowledges their uncertainty without being condescending.
 - Uses Rex as a concrete, dossier-supported social proof example (MVP that raised €5M seed round).
-- Balances educational content with a clear path to Concept Digital's MVP service.
+- Balances educational content with a clear path to Conceptdigital's MVP service.
 
 **Full Content**:
 ```
@@ -308,7 +308,7 @@ Most early-stage founders and product leaders who come to us with an MVP need ar
 
 Outsourcing MVP development to a specialist partner gives you access to senior engineering talent without the overhead of building a full-time team before you've proven the concept. It also gives you a structured process — discovery, architecture, development, QA, deployment — rather than the ad hoc build quality that often comes from early hires who are figuring things out as they go.
 
-Rex, a Berlin-based veterinary clinic chain, worked with Concept Digital to build a booking system and e-commerce engine as their core MVP. The product was built on React, Next.js, Node.js, and AWS. Following the launch, Rex successfully raised a €5,000,000 seed round. The MVP was not just a proof of concept — it was the commercial asset that gave investors confidence in the product and the team.
+Rex, a Berlin-based veterinary clinic chain, worked with Conceptdigital to build a booking system and e-commerce engine as their core MVP. The product was built on React, Next.js, Node.js, and AWS. Following the launch, Rex successfully raised a €5,000,000 seed round. The MVP was not just a proof of concept — it was the commercial asset that gave investors confidence in the product and the team.
 
 How to Choose an MVP Development Partner
 ------------------------------------------
@@ -348,7 +348,7 @@ Get In Touch and tell us about your product.
 
 **What Makes It Great**:
 - Comparison-format article that captures mid-funnel buyers evaluating engagement models.
-- Uses Concept Digital's global delivery footprint (13 countries) as a natural differentiator without overselling.
+- Uses Conceptdigital's global delivery footprint (13 countries) as a natural differentiator without overselling.
 - Structured for PAA (People Also Ask) capture with clear H2/H3 hierarchy and direct answer sentences.
 
 **Full Content**:
@@ -416,10 +416,10 @@ Choose offshore if:
 - Cost is the primary variable and you have the internal bandwidth to manage the coordination overhead.
 - You have prior experience managing distributed teams across significant timezone gaps.
 
-How Concept Digital Approaches Global Delivery
+How Conceptdigital Approaches Global Delivery
 ------------------------------------------------
 
-Concept Digital recruits from a network of 20,000+ vetted technology professionals across 13 countries. Our delivery model is built for UK and European businesses that need senior talent without the coordination overhead of traditional offshore outsourcing.
+Conceptdigital recruits from a network of 20,000+ vetted technology professionals across 13 countries. Our delivery model is built for UK and European businesses that need senior talent without the coordination overhead of traditional offshore outsourcing.
 
 We match talent to your specific requirements — stack, seniority, domain knowledge, and availability — and manage the employment and logistics so your team can focus on building. Our 97% client satisfaction rate reflects what happens when talent sourcing is done rigorously rather than at volume.
 
@@ -437,7 +437,7 @@ These short before/after pairs demonstrate the most common voice corrections wri
 ### Correction 1: Lead with the outcome, not the service
 
 **Before (wrong — service-first):**
-"Concept Digital offers a comprehensive staff augmentation service that gives you access to pre-vetted software engineers across 13 countries."
+"Conceptdigital offers a comprehensive staff augmentation service that gives you access to pre-vetted software engineers across 13 countries."
 
 **After (right — outcome-first):**
 "Scaling your engineering team doesn't have to mean a six-month hiring process. Our staff augmentation service puts pre-vetted software engineers inside your team — typically within days."
@@ -447,7 +447,7 @@ These short before/after pairs demonstrate the most common voice corrections wri
 ### Correction 2: Partner language, not vendor language
 
 **Before (wrong — vendor framing):**
-"As a leading software development vendor, Concept Digital provides clients with custom-built digital products."
+"As a leading software development vendor, Conceptdigital provides clients with custom-built digital products."
 
 **After (right — partner framing):**
 "We work closely with your team to understand your unique requirements and build tailored software solutions that grow with your business."

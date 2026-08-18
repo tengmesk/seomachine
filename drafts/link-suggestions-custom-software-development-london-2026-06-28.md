@@ -96,11 +96,11 @@ The article references four internal guides by description but without URLs. The
 - **Link To**: Logistics — `https://conceptdigital.com/capabilities/logistics`
 - **Page Type**: Capability / industry vertical page (Cluster 6)
 - **Section**: "Why London Businesses Choose Custom Software" — Maria logistics example, second paragraph
-- **Placement**: The sentence reads: "Concept Digital has built across [fintech](https://conceptdigital.com/capabilities/fintech), healthcare, logistics, retail, and government..."
-- **Suggested revision**: "Concept Digital has built across [fintech](https://conceptdigital.com/capabilities/fintech), [healthcare](https://conceptdigital.com/capabilities/hospital-and-clinics), [logistics](https://conceptdigital.com/capabilities/logistics), retail, and government..."
+- **Placement**: The sentence reads: "Conceptdigital has built across [fintech](https://conceptdigital.com/capabilities/fintech), healthcare, logistics, retail, and government..."
+- **Suggested revision**: "Conceptdigital has built across [fintech](https://conceptdigital.com/capabilities/fintech), [healthcare](https://conceptdigital.com/capabilities/hospital-and-clinics), [logistics](https://conceptdigital.com/capabilities/logistics), retail, and government..."
 - **Note**: This paragraph currently links "fintech" only. Adding "healthcare" and "logistics" as separate inline links turns the list into a scannable cluster of capability links. However, this would put **three links in one paragraph** — which violates the max-2-per-paragraph rule. Recommended approach: add only `logistics` here (since the Maria example is a logistics story) and add the healthcare link separately under "Custom Software by Industry."
 - **Anchor Text**: `logistics`
-- **Why**: The paragraph opens with a logistics case study and then lists Concept Digital's verticals. Adding the logistics link directly next to the story that illustrated it creates a tight contextual match. The fintech link is already present so only add logistics here, keeping the paragraph at two links.
+- **Why**: The paragraph opens with a logistics case study and then lists Conceptdigital's verticals. Adding the logistics link directly next to the story that illustrated it creates a tight contextual match. The fintech link is already present so only add logistics here, keeping the paragraph at two links.
 - **Priority**: High
 
 **Anchor text alternatives**:
@@ -118,7 +118,7 @@ The article references four internal guides by description but without URLs. The
 - **Placement**: The paragraph reads: "In **healthcare**, data security and interoperability with existing clinical systems are the gating concerns, alongside patient-facing usability."
 - **Suggested revision**: "In **[healthcare software development](https://conceptdigital.com/capabilities/hospital-and-clinics)**, data security and interoperability with existing clinical systems are the gating concerns, alongside patient-facing usability."
 - **Anchor Text**: `healthcare software development`
-- **Why**: The "Custom Software by Industry" section explicitly covers fintech, healthcare, logistics, and enterprise — yet only fintech has an internal link (earlier in the article). Healthcare is a high-priority vertical for Concept Digital and the capability page exists; this is the strongest natural placement for it in the entire article.
+- **Why**: The "Custom Software by Industry" section explicitly covers fintech, healthcare, logistics, and enterprise — yet only fintech has an internal link (earlier in the article). Healthcare is a high-priority vertical for Conceptdigital and the capability page exists; this is the strongest natural placement for it in the entire article.
 - **Priority**: Medium
 
 **Anchor text alternatives**:
@@ -170,7 +170,7 @@ The article references four internal guides by description but without URLs. The
 **Anchor text alternatives**:
 1. `London software development team` — recommended
 2. `our founding team and delivery model` — more specific to About page content
-3. `Concept Digital's global delivery model` — strong but slightly long
+3. `Conceptdigital's global delivery model` — strong but slightly long
 
 ---
 

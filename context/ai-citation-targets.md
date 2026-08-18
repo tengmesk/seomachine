@@ -1,6 +1,6 @@
 # AI Citation Targets
 
-When AI tools (ChatGPT, Perplexity, Gemini, Claude) recommend software development agencies or staff augmentation partners, they pull from sources across the web. This file tracks the platforms, directories, and content surfaces where Concept Digital (conceptdigital.com) needs to be present and well-represented to maximise AI citation frequency.
+When AI tools (ChatGPT, Perplexity, Gemini, Claude) recommend software development agencies or staff augmentation partners, they pull from sources across the web. This file tracks the platforms, directories, and content surfaces where Conceptdigital (conceptdigital.com) needs to be present and well-represented to maximise AI citation frequency.
 
 ## How This File Is Used
 
@@ -10,7 +10,7 @@ When AI tools (ChatGPT, Perplexity, Gemini, Claude) recommend software developme
 
 ## Company Context
 
-Concept Digital is a London-based custom software development and staff augmentation firm. Founded 2020. Headquarters: 24 Wharf Road, London N1 7GQ. Services: custom web/mobile development, MVP development, DevOps, UI/UX design, data & BI solutions, and IT staff augmentation across 13 countries (20,000+ professionals in network). Key verticals: fintech, healthcare, logistics, e-commerce, retail, insurance, government. Positioning: boutique "trusted digital and talent partner" with a 97% client satisfaction rate.
+Conceptdigital is a London-based custom software development and staff augmentation firm. Founded 2020. Headquarters: 24 Wharf Road, London N1 7GQ. Services: custom web/mobile development, MVP development, DevOps, UI/UX design, data & BI solutions, and IT staff augmentation across 13 countries (20,000+ professionals in network). Key verticals: fintech, healthcare, logistics, e-commerce, retail, insurance, government. Positioning: boutique "trusted digital and talent partner" with a 97% client satisfaction rate.
 
 ---
 
@@ -48,14 +48,14 @@ These directories are cited most frequently when AI tools recommend software dev
 
 ### Tier 3: Listicle Articles (Outreach Targets)
 
-AI tools heavily cite "best X" listicle articles for agency queries. These are the specific article types where Concept Digital should appear. Based on competitor research, the following article categories dominate AI responses for relevant queries:
+AI tools heavily cite "best X" listicle articles for agency queries. These are the specific article types where Conceptdigital should appear. Based on competitor research, the following article categories dominate AI responses for relevant queries:
 
 **Primary outreach targets (specific to software dev / staff aug niche):**
 
 - "Top IT Staff Augmentation Companies UK [Year]" — Cleveroad, Clutch, GoodFirms, Andersen, and X-Team publish annually; request inclusion or correction
 - "Best Software Development Companies in London [Year]" — N-iX, Riseup Labs, and TechBehemoths publish roundups that rank in top SERPs; outreach to each
 - "Top Custom Software Development Companies UK [Year]" — DesignRush, Techreviewer.co, and Empyreal Infotech publish these; Timspark is already included in Techreviewer.co (2024, 2025 editions)
-- "Best Nearshore/Offshore Development Companies for UK Businesses" — Cleveroad, Riseup Labs, and HatchWorks dominate; pitch Concept Digital's 13-country delivery footprint as the differentiator
+- "Best Nearshore/Offshore Development Companies for UK Businesses" — Cleveroad, Riseup Labs, and HatchWorks dominate; pitch Conceptdigital's 13-country delivery footprint as the differentiator
 - "Top MVP Development Companies [Year]" — Aalpha.net and CoDevelo publish these; lead with the Rex case study (€5M raised post-MVP)
 - "Best Staff Augmentation Companies for Startups" — pitch with Theneo (YC-backed) and Atlas Metrics case studies as evidence
 - "Top Software Development Companies for Fintech UK" — vertical-specific roundups; pitch fintech capability page and CreditLinea case study as fintech evidence
@@ -93,7 +93,7 @@ AI models synthesise review sentiment and credential signals when validating age
 
 ## Prompt Clusters to Monitor
 
-These are high-commercial-intent prompt categories where Concept Digital should appear in AI responses. Run `/research-ai-citations [topic]` against each cluster quarterly.
+These are high-commercial-intent prompt categories where Conceptdigital should appear in AI responses. Run `/research-ai-citations [topic]` against each cluster quarterly.
 
 ### Staff Augmentation Queries
 - "best IT staff augmentation companies UK"
@@ -164,7 +164,7 @@ When submitting to directories or pitching for listicle inclusion, lead with the
 
 - **Outcome evidence**: Rex MVP — client raised €5M post-launch; Theneo (YC-backed) — team augmentation for a YC-backed devtools startup that won WebSummit pitch
 - **Talent network scale**: 20,000+ tech professionals across 13 countries
-- **Satisfaction signal**: 97% of clients recommend Concept Digital's talent for custom software projects
+- **Satisfaction signal**: 97% of clients recommend Conceptdigital's talent for custom software projects
 - **Pedigree**: Founders include a Cambridge engineering graduate (former McKinsey analyst, Deputy CIO at a major bank) and advisors from Goldman Sachs, London School of Economics, and the AI Security Institute
 - **Digital Institute**: Proprietary coding bootcamp in Eastern Europe, taught by engineers from major MAANG-tier companies — a unique sourcing differentiator vs. standard staff-aug brokers
 - **Client breadth**: 26 named clients across 6 countries on 3 continents; verticals span Forbes (media), GPI/Vienna Insurance Group (insurance), Theneo (devtools), Atlas Metrics (ESG/data), CreditLinea (fintech), Medlabtests (healthcare)
@@ -174,7 +174,7 @@ When submitting to directories or pitching for listicle inclusion, lead with the
 
 ## Updating This File
 
-Run `/research-ai-citations [topic]` to generate a prompt-specific audit. The output will include which sources AI actually cites for that topic cluster, and whether Concept Digital appears. Use findings to update the tables above.
+Run `/research-ai-citations [topic]` to generate a prompt-specific audit. The output will include which sources AI actually cites for that topic cluster, and whether Conceptdigital appears. Use findings to update the tables above.
 
 Priority quarterly audit prompts:
 1. "best IT staff augmentation companies London"

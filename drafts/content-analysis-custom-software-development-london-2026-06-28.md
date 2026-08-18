@@ -38,11 +38,11 @@ Strengths:
 
 Gaps:
 - No explicit comparison matrix against named competitors or agency types — a common pattern for commercial investigation SERPs
-- No "Why choose Concept Digital vs [alternative]" section, which strong vendor-selection pages typically include
+- No "Why choose Conceptdigital vs [alternative]" section, which strong vendor-selection pages typically include
 - The article misses schema markup signals (FAQPage, HowTo) that would reinforce both intents in SERP
 
 **Recommendations**:
-1. Add a brief "How Concept Digital compares" section with a 3–4 column table (boutique agency vs large consultancy vs offshore) — this aligns squarely with commercial investigation intent
+1. Add a brief "How Conceptdigital compares" section with a 3–4 column table (boutique agency vs large consultancy vs offshore) — this aligns squarely with commercial investigation intent
 2. Add FAQPage schema markup to the FAQ section to target featured snippet and PAA eligibility
 3. A short "Who is this guide for?" paragraph near the top would sharpen the informational secondary thread
 
@@ -163,7 +163,7 @@ Note: The "F (Poor)" grade from the module's scoring algorithm is harsh because 
 2. **HIGH**: Split the "How to Choose" H2 lead-in sentence — break at the comma after "methodology"
 3. **HIGH**: Split the Rex/Clutch portfolio sentence in the Verifiable Portfolio section
 4. **MEDIUM**: Add 3–5 transition words (however, additionally, as a result) at paragraph junctions in the cost and process sections
-5. **LOW**: Review complex vocabulary in the "Concept Digital's Approach" section — "proprietary Digital Institute," "instructors drawn from MAANG companies," "Silicon Valley standards" — consider whether the target reader (non-technical founder or ops director) will find these natural or off-putting
+5. **LOW**: Review complex vocabulary in the "Conceptdigital's Approach" section — "proprietary Digital Institute," "instructors drawn from MAANG companies," "Silicon Valley standards" — consider whether the target reader (non-technical founder or ops director) will find these natural or off-putting
 
 ---
 

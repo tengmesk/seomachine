@@ -13,7 +13,7 @@
 - **Primary Topic**: How to commission custom software development in London — costs, timelines, process, and partner evaluation
 - **Search Intent**: Commercial investigation — readers are comparing options and building confidence before choosing a development partner
 - **Unique Angle**: Straight pricing reality (£8k–£500k+ bands), a cautionary case study (James's £40k rebuild), and a five-criteria evaluation framework — not a generic agency directory piece
-- **Brand Context**: Concept Digital — outcomes-first, partner-framed, UK English, no exclamation marks, no urgency language
+- **Brand Context**: Conceptdigital — outcomes-first, partner-framed, UK English, no exclamation marks, no urgency language
 
 ---
 
@@ -60,14 +60,14 @@ Use When: Testing whether leading with "London" rather than "Custom Software" im
 Description: `Custom software development in London costs £8k–£500k+. This 2026 guide covers pricing, timelines, and how to choose the right London partner for your build.`
 Characters: 157/160
 Formula Used: Benefit-Method-CTA
-Strengths: Leads with the concrete price anchor (the article's most distinctive fact); confirms comprehensiveness ("pricing, timelines"); ends with a soft CTA framed around the reader's build, not Concept Digital's services.
+Strengths: Leads with the concrete price anchor (the article's most distinctive fact); confirms comprehensiveness ("pricing, timelines"); ends with a soft CTA framed around the reader's build, not Conceptdigital's services.
 Trigger: Specificity — the £8k–£500k+ figure differentiates immediately from generic agency descriptions.
 
 **Option 2: Problem-Focused**
 Description: `Choosing a custom software development company in London? Compare costs, timelines, and what separates a credible partner from a polished pitch. Read the guide.`
 Characters: 160/160
 Formula Used: Problem-Solution-CTA
-Strengths: Opens by mirroring the reader's exact decision state; "credible partner vs polished pitch" is a sharp, honest differentiator; soft CTA ("Read the guide") respects the Concept Digital no-urgency principle.
+Strengths: Opens by mirroring the reader's exact decision state; "credible partner vs polished pitch" is a sharp, honest differentiator; soft CTA ("Read the guide") respects the Conceptdigital no-urgency principle.
 Trigger: Empathy — validates the reader's challenge before promising the solution.
 
 **Option 3: Direct-Answer (AI-Optimised)**
@@ -92,7 +92,7 @@ Strengths: Relaxed, authoritative tone that mirrors the brand voice; "find the r
 Trigger: Competence signal — calm, grounded framing implies confident expertise rather than sales pressure.
 
 **RECOMMENDED**: Option 3 — `London custom software development costs £8k–£500k+. Learn the pricing bands, delivery timelines, and how to evaluate a bespoke software partner in London.`
-**Rationale**: Opens with a direct price answer (AI-search best practice per the SEO guidelines), hits both "custom" and "bespoke" for keyword coverage, lands at 155 chars with room to breathe, and the soft CTA ("Learn") is squarely on-brand. Best balance of AI-search optimisation, traditional SERP performance, and Concept Digital voice.
+**Rationale**: Opens with a direct price answer (AI-search best practice per the SEO guidelines), hits both "custom" and "bespoke" for keyword coverage, lands at 155 chars with room to breathe, and the soft CTA ("Learn") is squarely on-brand. Best balance of AI-search optimisation, traditional SERP performance, and Conceptdigital voice.
 
 ---
 
@@ -103,7 +103,7 @@ Trigger: Competence signal — calm, grounded framing implies confident expertis
 3. `/blog/bespoke-software-development-london` — targets the secondary keyword variant; useful if a separate bespoke-focused URL is needed, but dilutes the pillar.
 
 **Recommended slug**: `/blog/custom-software-development-london`
-Rationale: Three meaningful words, exact match to the core keyword stem, no stop words, consistent with how Concept Digital names pillar content.
+Rationale: Three meaningful words, exact match to the core keyword stem, no stop words, consistent with how Conceptdigital names pillar content.
 
 ---
 
@@ -133,5 +133,5 @@ timelines, and how to evaluate a bespoke software partner in London.
 ## Competitive Context
 
 - **Common Patterns**: Most London software agency meta titles are generic ("Custom Software Development Company | Agency Name") with no pricing signal and no year. Descriptions default to vague capability lists.
-- **Differentiation Opportunity**: The £8k–£500k+ price anchor is the sharpest differentiator in the SERP — almost no agencies lead their meta with concrete numbers because they do not want to scare budget-constrained readers. Concept Digital's honest positioning makes this a strength, not a risk.
+- **Differentiation Opportunity**: The £8k–£500k+ price anchor is the sharpest differentiator in the SERP — almost no agencies lead their meta with concrete numbers because they do not want to scare budget-constrained readers. Conceptdigital's honest positioning makes this a strength, not a risk.
 - **Click Magnet**: Option 3 description wins on AI-search surfaces; Option 2 (problem-framed) wins in traditional SERP because it mirrors the exact mental state of a reader who has already opened five tabs of agency websites.

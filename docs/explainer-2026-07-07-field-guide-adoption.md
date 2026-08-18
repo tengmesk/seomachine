@@ -1,6 +1,6 @@
 # Explainer: Field-Guide Adoption & Pillar Article Finalization
 
-**For**: Concept Digital stakeholders reviewing this change
+**For**: Conceptdigital stakeholders reviewing this change
 **Date**: 7 July 2026
 **Bundle**: plan (`plan-2026-07-07-field-guide-adoption.md`) · notes (`notes-2026-07-07-field-guide-adoption.md`) · this explainer · HTML report + quiz
 

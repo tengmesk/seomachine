@@ -1,6 +1,6 @@
 # Internal Links Map
 
-This document catalogs key Concept Digital pages that should be referenced in blog content for strategic internal linking. Use this as your go-to reference when adding internal links to articles.
+This document catalogs key Conceptdigital pages that should be referenced in blog content for strategic internal linking. Use this as your go-to reference when adding internal links to articles.
 
 ---
 
@@ -8,13 +8,13 @@ This document catalogs key Concept Digital pages that should be referenced in bl
 
 ### Homepage
 - **URL**: https://conceptdigital.com
-- **When to Link**: Rarely; only when referencing Concept Digital broadly or introducing the company to a new audience
-- **Anchor Text Examples**: "Concept Digital", "Conceptdigital", "our team", "London software development company"
+- **When to Link**: Rarely; only when referencing Conceptdigital broadly or introducing the company to a new audience
+- **Anchor Text Examples**: "Conceptdigital", "Conceptdigital", "our team", "London software development company"
 
 ### About Page
 - **URL**: https://conceptdigital.com/about
 - **When to Link**: When discussing company background, leadership team, the Digital Institute, delivery geography, or client satisfaction statistics
-- **Anchor Text Examples**: "about Concept Digital", "our founding team", "our global delivery model", "trusted digital and talent partner"
+- **Anchor Text Examples**: "about Conceptdigital", "our founding team", "our global delivery model", "trusted digital and talent partner"
 
 ### Our Work / Client Portfolio
 - **URL**: https://conceptdigital.com/our-clients
@@ -24,7 +24,7 @@ This document catalogs key Concept Digital pages that should be referenced in bl
 ### Careers Page
 - **URL**: https://conceptdigital.com/careers
 - **When to Link**: When discussing hiring, company culture, or tech talent availability
-- **Anchor Text Examples**: "join our team", "open positions", "view open roles", "careers at Concept Digital"
+- **Anchor Text Examples**: "join our team", "open positions", "view open roles", "careers at Conceptdigital"
 
 ### Contact Page
 - **URL**: https://conceptdigital.com/contact

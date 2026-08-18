@@ -1,8 +1,8 @@
-# Concept Digital Style Guide
+# Conceptdigital Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial rules for all Concept Digital content. It governs **mechanics and formatting**; for tone, voice pillars, and messaging, see `brand-voice.md`, and for the SEO rules see `seo-guidelines.md`.
+This guide defines writing conventions, formatting standards, and editorial rules for all Conceptdigital content. It governs **mechanics and formatting**; for tone, voice pillars, and messaging, see `brand-voice.md`, and for the SEO rules see `seo-guidelines.md`.
 
-Concept Digital is a London-based custom software development and staff augmentation firm. Content is written for business decision-makers (CTOs, founders, product leaders) at SMEs and enterprise companies. The register is semi-formal, confident, and outcome-first.
+Conceptdigital is a London-based custom software development and staff augmentation firm. Content is written for business decision-makers (CTOs, founders, product leaders) at SMEs and enterprise companies. The register is semi-formal, confident, and outcome-first.
 
 ---
 
@@ -19,7 +19,7 @@ Concept Digital is a London-based custom software development and staff augmenta
 ### Capitalisation
 
 - **Headlines & subheadings**: **Title Case** — capitalise the major words (e.g. "How to Choose a Custom Software Development Company in London").
-- **Brand name**: "Concept Digital" (both words capitalised). Never "ConceptDigital" in prose; the closed form is only for the domain (conceptdigital.com).
+- **Brand name**: "Conceptdigital" (both words capitalised). Never "ConceptDigital" in prose; the closed form is only for the domain (conceptdigital.com).
 - **Services**: capitalise as proper service names when referring to the offering — Custom Software Development, Staff Augmentation, MVP Development, DevOps, UI/UX Design, Data & BI Solutions. Lowercase when used generically ("we build custom software").
 - **Job titles**: capitalise specific titles before a name (CTO Jane Smith); lowercase generic references ("a chief technology officer").
 
@@ -144,7 +144,7 @@ These reinforce the brand positioning. The full rationale is in `brand-voice.md`
 
 (Full rules in `seo-guidelines.md`; the style essentials:)
 
-- **Meta titles**: 50–60 characters, include the primary keyword, append "| Concept Digital" only if it fits. No ending punctuation.
+- **Meta titles**: 50–60 characters, include the primary keyword, append "| Conceptdigital" only if it fits. No ending punctuation.
 - **Meta descriptions**: 150–160 characters, include the keyword, directly answer the query, end on a complete thought with a soft CTA.
 - **URL slugs**: lowercase, hyphenated, include the primary keyword, 3–5 words. Format `/blog/primary-keyword-phrase`.
 - **Alt text**: describe the image, include a keyword where natural, 125 characters or fewer, no "image of."
@@ -169,9 +169,9 @@ These reinforce the brand positioning. The full rationale is in `brand-voice.md`
 
 ## Brand & Competitor References
 
-### Concept Digital
+### Conceptdigital
 
-- "Concept Digital" on first and subsequent mentions (not "the Concept Digital platform").
+- "Conceptdigital" on first and subsequent mentions (not "the Conceptdigital platform").
 - Headquarters reference where it adds a UK trust signal: London (24 Wharf Road, N1 7GQ).
 - Pair the London HQ with the global delivery footprint (13 countries) when scale is relevant.
 
@@ -217,7 +217,7 @@ Before publishing, verify:
 
 ---
 
-**Style Guide Version**: 2.0 (Concept Digital)
+**Style Guide Version**: 2.0 (Conceptdigital)
 **Last Updated**: 30 June 2026
 **Next Review**: 30 September 2026
 

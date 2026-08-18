@@ -128,7 +128,7 @@ H2-6: ✗ "Custom Software by Industry"
 H2-7: ✗ "Build vs Buy vs Enterprise: Matching the Model to the Goal"
       — no keyword present; topic-appropriate, no primary keyword needed here
 
-H2-8: ✗ "Concept Digital's Approach"
+H2-8: ✗ "Conceptdigital's Approach"
       — no keyword; branded section; acceptable
 
 H2-9: ✓ "Frequently Asked Questions"
@@ -158,7 +158,7 @@ Section 6 — Custom Software by Industry  ██░░░░░░░░  Gener
   (1,700–1,950 words)
 Section 7 — Build vs Buy                 ░░░░░░░░░░  No primary KW (Gap)
   (1,950–2,200 words)
-Section 8 — Concept Digital Approach     ██░░░░░░░░  "custom software development" × 1
+Section 8 — Conceptdigital Approach     ██░░░░░░░░  "custom software development" × 1
   (2,200–2,450 words)
 Section 9 — FAQ                         ████████░░  Long-tail KW × 4 (Good)
   (2,450–2,900 words)
@@ -283,7 +283,7 @@ The strategic note in `target-keywords.md` explicitly states: *"UK buyers use 'b
 **GAP: `web application development company London` — not used as keyphrase**
 
 **Placement D — Section 4 ("The Custom Software Development Process"), near technology stack paragraph**
-- After: "Concept Digital builds on React, Angular, and Vue on the front end..."
+- After: "Conceptdigital builds on React, Angular, and Vue on the front end..."
 - Add sentence: "As a web application development company based in London, we match the technology choices to your requirements rather than defaulting to a preferred stack."
 - Keyword form: `web application development company` + `London`
 
@@ -333,7 +333,7 @@ Not a pillar-level phrase; this is more transactional and shorter-funnel. Reserv
 | Dimension | Score | Notes |
 |---|---|---|
 | Natural language flow | 23/25 | Keyword integrations read naturally throughout; H2-5 ("How to Choose a Custom Software Development Company in London") is the strongest heading in the article |
-| Even distribution | 16/25 | Section 7 (Build vs Buy) and Section 8 (Concept Digital Approach) are keyword-light; recommendations above address this |
+| Even distribution | 16/25 | Section 7 (Build vs Buy) and Section 8 (Conceptdigital Approach) are keyword-light; recommendations above address this |
 | Variation usage | 22/25 | Good variation between "custom software development," "bespoke software," "tailored build," "bespoke internal platform" |
 | Readability maintained | 24/25 | No forced or awkward placements detected; the James and Maria narrative examples are particularly strong at grounding abstract keyword concepts in human scenarios |
 

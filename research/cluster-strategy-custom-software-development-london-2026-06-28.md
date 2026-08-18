@@ -11,7 +11,7 @@
 
 ## Executive Summary
 
-"Custom software development company London" is Concept Digital's highest-intent core-service keyword: transactional buyers actively shortlisting a vendor. The page-one SERP is dominated by **directories** (Clutch, DesignRush) and **agency landing pages** (One Beyond, TRooTech, Magneto, RSK-BSL) — most are thin sales pages or generic listicles. The opportunity is a genuinely useful, buyer-first pillar guide (pricing transparency, vendor-evaluation framework, London trust signals, real case studies) surrounded by 10 supporting articles that own the cost, comparison, vertical, and process long-tails competitors under-serve.
+"Custom software development company London" is Conceptdigital's highest-intent core-service keyword: transactional buyers actively shortlisting a vendor. The page-one SERP is dominated by **directories** (Clutch, DesignRush) and **agency landing pages** (One Beyond, TRooTech, Magneto, RSK-BSL) — most are thin sales pages or generic listicles. The opportunity is a genuinely useful, buyer-first pillar guide (pricing transparency, vendor-evaluation framework, London trust signals, real case studies) surrounded by 10 supporting articles that own the cost, comparison, vertical, and process long-tails competitors under-serve.
 
 ---
 
@@ -84,7 +84,7 @@
 5. **H2: How to choose a custom software development company in London** — evaluation scorecard → deep-links to Article 3.
 6. **H2: Custom software by industry** — fintech, healthcare, e-commerce, logistics → links to Articles 4, 10 and capability pages.
 7. **H2: Build vs buy vs SaaS vs enterprise** — engagement framing → links to Articles 2, 6, 8.
-8. **H2: Concept Digital's approach & client outcomes** — Rex, Forbes, Halocarbon proof points → links to `/our-clients`, `/services/web-development`.
+8. **H2: Conceptdigital's approach & client outcomes** — Rex, Forbes, Halocarbon proof points → links to `/our-clients`, `/services/web-development`.
 9. **H2: FAQ** — 5–6 PAA questions in natural language.
 
 ---
@@ -122,7 +122,7 @@
 | Search Volume | Medium (est.) |
 | Keyword Difficulty | Medium (est.) |
 | Search Intent | Commercial investigation |
-| Content Angle | 10-point vendor-evaluation checklist + red flags + questions to ask; positions Concept Digital's strengths implicitly |
+| Content Angle | 10-point vendor-evaluation checklist + red flags + questions to ask; positions Conceptdigital's strengths implicitly |
 | Pillar Relationship | Expands H2: "How to choose a custom software development company" |
 | Word Count Target | 2,000–2,500 |
 | Priority Score | 88/100 |

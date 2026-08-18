@@ -1,6 +1,6 @@
-# Concept Digital Features & Benefits
+# Conceptdigital Features & Benefits
 
-This document outlines Concept Digital's key features, benefits, and differentiators to inform content creation that drives leads and customer acquisition.
+This document outlines Conceptdigital's key features, benefits, and differentiators to inform content creation that drives leads and customer acquisition.
 
 ## Core Value Propositions
 
@@ -20,12 +20,12 @@ This document outlines Concept Digital's key features, benefits, and differentia
 - **Conversion Angle**: "Work with a team whose principals have built and led technology at McKinsey, Goldman Sachs, and Y Combinator-backed companies."
 
 ### 4. **Digital Institute Talent Pipeline**
-- **Feature**: Concept Digital operates a proprietary coding bootcamp in Eastern Europe instructed by accomplished engineers from Meta, Amazon, Apple, Netflix, and Google (MAANG), producing a continuous pipeline of trained developers
+- **Feature**: Conceptdigital operates a proprietary coding bootcamp in Eastern Europe instructed by accomplished engineers from Meta, Amazon, Apple, Netflix, and Google (MAANG), producing a continuous pipeline of trained developers
 - **Benefit**: Staff augmentation clients access talent shaped by MAANG-standard engineering practices, not generic outsourcing pools
 - **Conversion Angle**: "Our engineers are trained by MAANG instructors — so the talent you hire carries Silicon Valley standards at Eastern European delivery costs."
 
 ### 5. **97% Client Satisfaction Rate Across Startups, SMEs, and Enterprise**
-- **Feature**: 97% of startups, SMEs, and enterprise clients recommend Concept Digital's talent for custom software projects; 26 named clients across 6 countries on 3 continents
+- **Feature**: 97% of startups, SMEs, and enterprise clients recommend Conceptdigital's talent for custom software projects; 26 named clients across 6 countries on 3 continents
 - **Benefit**: Proven track record reduces the risk inherent in choosing a technology partner, providing confidence that delivery will match the promise
 - **Conversion Angle**: "97% of our clients — from early-stage startups to enterprise — recommend us for their next software project."
 
@@ -83,7 +83,7 @@ This document outlines Concept Digital's key features, benefits, and differentia
 ## Competitive Differentiators
 
 ### vs. Large-Scale Outsourcers (Ciklum, N-iX, Andersen)
-- **Boutique partner accountability** (large outsourcers assign account managers; Concept Digital's founders are involved at a strategic level)
+- **Boutique partner accountability** (large outsourcers assign account managers; Conceptdigital's founders are involved at a strategic level)
 - **MAANG-trained talent pipeline via Digital Institute** (not dependent solely on market hiring)
 - **London-headquartered with aligned time zones** (same working hours as UK clients, unlike purely offshore delivery centers)
 - **97% client satisfaction rate** (published metric versus generic quality claims)
@@ -183,7 +183,7 @@ This document outlines Concept Digital's key features, benefits, and differentia
 **Answer**: We serve the full range — from early-stage startups needing MVP builds through to enterprise clients requiring dedicated development teams and data solutions. 97% of clients across all segments recommend us.
 
 ### "Where are your developers based?"
-**Answer**: Concept Digital is headquartered in London (24 Wharf Road, N1 7GQ). Our delivery network spans 13 countries. Leadership and strategic oversight are London-based, ensuring aligned working hours and communication with UK and European clients.
+**Answer**: Conceptdigital is headquartered in London (24 Wharf Road, N1 7GQ). Our delivery network spans 13 countries. Leadership and strategic oversight are London-based, ensuring aligned working hours and communication with UK and European clients.
 
 ### "What makes your talent different from a generic outsourcing firm?"
 **Answer**: Our proprietary Digital Institute trains developers in Eastern Europe under instruction from MAANG engineers. Our leadership team includes Cambridge alumni, former McKinsey analysts, and former C-suite executives from Bank of Georgia and Space International. This combination of institutional pedigree and structured talent development is not common in the outsourcing market.
@@ -193,7 +193,7 @@ This document outlines Concept Digital's key features, benefits, and differentia
 
 ## Content Creation Guidelines
 
-When writing about Concept Digital's services:
+When writing about Conceptdigital's services:
 
 1. **Lead with the client's business outcome, not our capability**: Don't say "we offer staff augmentation" — say "scale your engineering team in days, not months"
 2. **Use "tailor-made," "bespoke," or "tailored"** when describing solutions — never "one-size-fits-all"
@@ -202,7 +202,7 @@ When writing about Concept Digital's services:
 5. **Include proof points from the client portfolio**: Rex (€5M raised), Theneo (WebSummit pitch win), Forbes (iOS/Android UI/UX) are concrete, named examples
 6. **Quote the 97% satisfaction rate with the full context**: "97% of startups, SMEs, and enterprise clients recommend our talent"
 7. **Emphasise London headquarters for UK trust signals** while noting the global delivery footprint for scale
-8. **Address the "boutique vs. scale" tension**: Concept Digital is both — boutique accountability with a 20,000+ network behind it
+8. **Address the "boutique vs. scale" tension**: Conceptdigital is both — boutique accountability with a 20,000+ network behind it
 9. **Keep CTAs short and verb-first**: "Get In Touch," "Book a Call," "Hire Top Talent"
 10. **Avoid exclamation points**: Confidence comes from declarative statements and specific proof points, not punctuation
 

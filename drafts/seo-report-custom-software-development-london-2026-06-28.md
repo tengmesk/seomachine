@@ -48,21 +48,21 @@ URL slug:                        PASS — /blog/custom-software-development-lond
 **Location**: Frontmatter, line 7–8
 **Current**:
 ```
-Author: Concept Digital Editorial Team
+Author: Conceptdigital Editorial Team
 Reviewed By: [Assign a named senior engineer or the CEO for stronger E-E-A-T]
 ```
 **Why it matters**: Google's Quality Rater Guidelines and AI citation engines (Perplexity, ChatGPT) explicitly weight named human authorship for YMYL-adjacent commercial content. "Editorial Team" is a no-signal generic. The Reviewed By field is still a placeholder.
 **Fix**: Replace with a named individual — e.g. the CEO or CTO — and assign a named reviewer (the article's own context mentions Cambridge engineering and McKinsey pedigrees; that credibility is invisible until it is attributed to a named person).
 ```
-Author: [Full Name], Co-founder & CEO, Concept Digital
-Reviewed By: [Full Name], Head of Engineering, Concept Digital
+Author: [Full Name], Co-founder & CEO, Conceptdigital
+Reviewed By: [Full Name], Head of Engineering, Conceptdigital
 ```
 
 ### 2. Video embed is a placeholder — AI search cross-validation missing
-**Location**: Line 141 (inside "Concept Digital's Approach" section)
-**Current**: `*(Embed: insert a relevant Concept Digital or authoritative third-party YouTube video on the custom software development process.)*`
+**Location**: Line 141 (inside "Conceptdigital's Approach" section)
+**Current**: `*(Embed: insert a relevant Conceptdigital or authoritative third-party YouTube video on the custom software development process.)*`
 **Why it matters**: The SEO guidelines explicitly require at least one embedded YouTube video per article for AI cross-validation (Perplexity and Gemini independently verify video content alongside articles). This is currently a comment, not an actual embed. It will not be rendered by WordPress.
-**Fix**: Source and embed a real YouTube video — either Concept Digital's own channel or a reputable third-party (e.g. Fireship, Traversy Media, or a London tech event). Insert a proper WordPress embed block or `[embed]https://youtube.com/watch?v=XXX[/embed]` shortcode before publishing.
+**Fix**: Source and embed a real YouTube video — either Conceptdigital's own channel or a reputable third-party (e.g. Fireship, Traversy Media, or a London tech event). Insert a proper WordPress embed block or `[embed]https://youtube.com/watch?v=XXX[/embed]` shortcode before publishing.
 
 ### 3. Four internal "guide" references are not linked — missed cluster signals
 **Locations**:
@@ -86,9 +86,9 @@ Reviewed By: [Full Name], Head of Engineering, Concept Digital
 **Impact**: Adds the commercial-intent 5-word phrase to a prominent H2, reinforcing topical relevance for navigational search.
 
 ### QW2. Add one more natural placement of the exact primary keyword in the body
-**Recommended location**: Opening of the "Concept Digital's Approach" section (currently none).
+**Recommended location**: Opening of the "Conceptdigital's Approach" section (currently none).
 **Suggested addition** (after line 133, first sentence of that section):
-> "As a London-based custom software development company, Concept Digital supports clients across the full software development lifecycle…"
+> "As a London-based custom software development company, Conceptdigital supports clients across the full software development lifecycle…"
 This is the only company-branded section and the natural place to use the navigational phrase that transactional searchers would type.
 
 ### QW3. Strengthen the meta description — add CTA and tighten to 155 characters
@@ -169,8 +169,8 @@ This converts a compelling narrative into a navigable proof point rather than le
 A custom software development company designs, builds, and maintains software tailored to a specific client's requirements rather than selling a generic product. Services typically include discovery and requirements definition, UX and UI design, back-end and front-end development, QA testing, deployment, and ongoing support. London-based companies combine this with proximity and regulatory fluency for UK and European clients.
 ```
 
-### S5. Consider splitting "Concept Digital's Approach" into a lighter touch
-**Current length**: The "Concept Digital's Approach" section (lines 133–141) is approximately 200 words of brand self-description with no sub-headings or scannable structure.
+### S5. Consider splitting "Conceptdigital's Approach" into a lighter touch
+**Current length**: The "Conceptdigital's Approach" section (lines 133–141) is approximately 200 words of brand self-description with no sub-headings or scannable structure.
 **Issue**: It functions as a promotional interlude that breaks the informational flow just before the FAQ and Conclusion. It also introduces no new keyword signals.
 **Recommendation**: Either (a) reduce it to 80–100 words and embed one key credential (Cambridge/McKinsey) with a link to `/about`, or (b) convert it into a scannable format with 3 bullet points (Leadership Pedigree / Talent Quality / Track Record) which AI models can parse individually as structured claims.
 
@@ -309,7 +309,7 @@ The broad head term `software development company London` (listed in Cross-Clust
 - Bold used appropriately for cost drivers (line 68–72).
 
 **Areas to improve**:
-- The "Concept Digital's Approach" section (lines 133–141) contains two long, dense sentences that would benefit from bullet formatting (see S5 above).
+- The "Conceptdigital's Approach" section (lines 133–141) contains two long, dense sentences that would benefit from bullet formatting (see S5 above).
 - Line 64: "The honest answer most agencies avoid is that price is a function of scope, complexity, and team seniority, not a fixed sticker. Here's how the major variables move the number." — "Here's how the major variables move the number" is jargon-light but slightly awkward. Consider: "Here is how each variable affects your final quote."
 - The article has zero images. For a ~3,000-word pillar covering pricing, process, and team structure, at least 2 images are recommended: (1) a pricing band visual or table header image, (2) a process timeline or lifecycle diagram. Without images the article relies entirely on text for engagement, which increases scroll-past rates.
 
@@ -379,7 +379,7 @@ No images are present in the article. For a pillar of this length and commercial
 | 7 | Add logistics capability link in Industry section and Maria story | 5 min | Lines 49–51, 121 |
 | 8 | Remove duplicate /contact link; replace with /services/web-development | 3 min | Line 115 |
 | 9 | Revise "Why London Businesses Choose Custom Software" H2 to include full primary keyword | 2 min | Line 43 |
-| 10 | Add "custom software development company" phrase once in Concept Digital's Approach | 3 min | Line 133 |
+| 10 | Add "custom software development company" phrase once in Conceptdigital's Approach | 3 min | Line 133 |
 
 ### Priority 3 — Strategic improvements (schedule for next draft pass)
 
@@ -388,7 +388,7 @@ No images are present in the article. For a pillar of this length and commercial
 | 11 | Add "bespoke software development" to at least one H2 | 10 min |
 | 12 | Add sixth FAQ on "What does a custom software development company do?" | 15 min |
 | 13 | Add Medlabtests link in Industry / healthcare section | 5 min |
-| 14 | Convert "Concept Digital's Approach" to bullet format for AI parsability | 20 min |
+| 14 | Convert "Conceptdigital's Approach" to bullet format for AI parsability | 20 min |
 | 15 | Add 2–3 images with descriptive file names and keyword-rich alt text | 60+ min |
 | 16 | Add a definition-opening sentence to Process section for snippet eligibility | 5 min |
 

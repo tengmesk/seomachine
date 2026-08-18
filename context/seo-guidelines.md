@@ -1,6 +1,6 @@
-# SEO Guidelines for Concept Digital Content
+# SEO Guidelines for Conceptdigital Content
 
-This document outlines SEO best practices and requirements for all Concept Digital blog content to maximise organic search visibility and rankings. It works alongside `style-guide.md` (mechanics) and `brand-voice.md` (tone).
+This document outlines SEO best practices and requirements for all Conceptdigital blog content to maximise organic search visibility and rankings. It works alongside `style-guide.md` (mechanics) and `brand-voice.md` (tone).
 
 ## Content Length Requirements
 
@@ -126,17 +126,17 @@ The primary keyword MUST appear in:
 
 ### Meta Title
 **Requirements**:
-- **Length**: 50-60 characters (including "| Concept Digital" if used)
+- **Length**: 50-60 characters (including "| Conceptdigital" if used)
 - **Primary keyword**: must be included
 - **Compelling**: should encourage clicks from the SERP
-- **Unique**: different from all other Concept Digital page titles
+- **Unique**: different from all other Conceptdigital page titles
 - **Accurate**: must match the page content
 
 **Format Options**:
 - `[Primary Keyword]: [Benefit/Promise]`
 - `How to [Goal] | [Qualifier]`
 - `[Number] Ways to [Achieve Benefit]`
-- `[Topic] Guide for [Audience] | Concept Digital`
+- `[Topic] Guide for [Audience] | Conceptdigital`
 
 **Examples**:
 - ✅ "Custom Software Development in London (2026 Guide)"
@@ -294,7 +294,7 @@ Use transitions to improve flow:
 
 #### Authoritativeness
 - Cite credible sources and industry data
-- Reference Concept Digital's relevant experience and named client outcomes (Rex, Forbes, Halocarbon) where supported
+- Reference Conceptdigital's relevant experience and named client outcomes (Rex, Forbes, Halocarbon) where supported
 - Leverage the leadership pedigree (Cambridge, McKinsey, Goldman Sachs advisors) as a credibility signal where relevant
 - Include named author and reviewer attribution
 
@@ -316,7 +316,7 @@ Use transitions to improve flow:
 - **Verify statistics**: check all numbers and data points
 - **Current information**: ensure practices and pricing are up to date
 - **Technical accuracy**: software development terminology and processes must be correct
-- **Concept Digital facts**: ensure service, client, and metric references are accurate and supported by `features.md`
+- **Conceptdigital facts**: ensure service, client, and metric references are accurate and supported by `features.md`
 
 ## Image Optimization
 
@@ -570,4 +570,4 @@ Before publishing, verify:
 
 ---
 
-**Remember**: SEO serves the user, not the algorithm. Never sacrifice content quality, accuracy, or helpfulness for keyword optimisation. The best SEO is genuinely useful content that helps a business decision-maker make the right call, and earns Concept Digital the right to be their trusted long-term partner.
+**Remember**: SEO serves the user, not the algorithm. Never sacrifice content quality, accuracy, or helpfulness for keyword optimisation. The best SEO is genuinely useful content that helps a business decision-maker make the right call, and earns Conceptdigital the right to be their trusted long-term partner.
