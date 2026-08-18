@@ -15,6 +15,8 @@ Follow the unknowns-reduction workflow in `docs/agentic-workflow.md` for all sig
 
 SEO Machine is an open-source Claude Code workspace for creating SEO-optimized blog content. It combines custom commands, specialized agents, and Python-based analytics to research, write, optimize, and publish articles for any business.
 
+**This working copy is configured for Concept Digital** (the founder's digital agency, ~6 years running) — `context/` holds Concept Digital's real brand voice, offers, and audience, not placeholder data. The first content cluster, `custom-software-development-london`, has research and a finalized pillar draft committed under `research/`/`drafts/`. Treat `context/` as live client context, not a template to genericize.
+
 ## Setup
 
 ```bash
