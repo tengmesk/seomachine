@@ -1,0 +1,137 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Working Method
+
+Follow the unknowns-reduction workflow in `docs/agentic-workflow.md` for all significant work:
+
+- **Before**: run a blind-spot pass on unfamiliar territory; brainstorm variants for subjective outputs; interview the user on decisions only they can make (never guess names, facts, or publishing targets); use `context/writing-examples.md` as the voice reference; write a short plan to `docs/plan-YYYY-MM-DD-<slug>.md` for substantial changes.
+- **During**: keep implementation notes at `docs/notes-YYYY-MM-DD-<slug>.md` (deviations, edge cases, verified facts).
+- **After**: for significant merges, produce an explainer plus a report + quiz for the reviewer.
+- **Quality gate**: `content_scorer.py` composite ≥70 gates publishing; the five `/write` agent reports are advisory. Any named client, statistic, or URL must trace to `context/` files or the live site.
+
+## Project Overview
+
+SEO Machine is an open-source Claude Code workspace for creating SEO-optimized blog content. It combines custom commands, specialized agents, and Python-based analytics to research, write, optimize, and publish articles for any business.
+
+**This working copy is configured for Conceptdigital** (the founder's digital agency, ~6 years running) — `context/` holds Conceptdigital's real brand voice, offers, and audience, not placeholder data. The first content cluster, `custom-software-development-london`, has research and a finalized pillar draft committed under `research/`/`drafts/`. Treat `context/` as live client context, not a template to genericize.
+
+## Setup
+
+```bash
+pip install -r data_sources/requirements.txt
+```
+
+API credentials are configured in `data_sources/config/.env` (GA4, GSC, DataForSEO, WordPress). GA4 service account credentials go in `credentials/ga4-credentials.json`.
+
+## Commands
+
+All commands are defined in `.claude/commands/` and invoked as slash commands:
+
+- `/research [topic]` - Keyword/competitor research, generates brief in `research/`
+- `/write [topic]` - Create full article in `drafts/`, auto-triggers optimization agents
+- `/rewrite [topic]` - Update existing content, saves to `rewrites/`
+- `/optimize [file]` - Final SEO polish pass
+- `/analyze-existing [URL or file]` - Content health audit
+- `/performance-review` - Analytics-driven content priorities
+- `/publish-draft [file]` - Publish to WordPress via REST API
+- `/article [topic]` - Simplified article creation
+- `/cluster [topic]` - Build complete topic cluster strategy with pillar + supporting articles + linking map
+- `/priorities` - Content prioritization matrix
+- `/research-serp`, `/research-gaps`, `/research-trending`, `/research-performance`, `/research-topics` - Specialized research commands
+- `/research-ai-citations [topic]` - AI citation audit: generates prompts, clusters them, audits which sources AI cites
+- `/repurpose [file]` - Adapts article for LinkedIn, Medium, Reddit, Quora distribution
+- `/landing-write`, `/landing-audit`, `/landing-research`, `/landing-publish`, `/landing-competitor` - Landing page commands
+
+## Architecture
+
+### Command-Agent Model
+
+**Commands** (`.claude/commands/`) orchestrate workflows. **Agents** (`.claude/agents/`) are specialized roles invoked by commands. After `/write`, these agents auto-run: SEO Optimizer, Meta Creator, Internal Linker, Keyword Mapper.
+
+Key agents: `content-analyzer.md`, `seo-optimizer.md`, `meta-creator.md`, `internal-linker.md`, `keyword-mapper.md`, `editor.md`, `headline-generator.md`, `cro-analyst.md`, `performance.md`, `cluster-strategist.md`.
+
+### Python Analysis Pipeline
+
+Located in `data_sources/modules/`. The Content Analyzer chains:
+1. `search_intent_analyzer.py` - Query intent classification
+2. `keyword_analyzer.py` - Density, distribution, stuffing detection
+3. `content_length_comparator.py` - Benchmarks against top 10 SERP results
+4. `readability_scorer.py` - Flesch Reading Ease, grade level
+5. `seo_quality_rater.py` - Comprehensive 0-100 SEO score
+
+### Data Integrations
+
+- `google_analytics.py` - GA4 traffic/engagement data
+- `google_search_console.py` - Rankings and impressions
+- `dataforseo.py` - SERP positions, keyword metrics
+- `data_aggregator.py` - Combines all sources into unified analytics
+- `wordpress_publisher.py` - Publishes to WordPress with Yoast SEO metadata
+
+### Opportunity Scoring
+
+`opportunity_scorer.py` uses 8 weighted factors: Volume (25%), Position (20%), Intent (20%), Competition (15%), Cluster (10%), CTR (5%), Freshness (5%), Trend (5%).
+
+## Running Python Scripts
+
+```bash
+# Research & analysis scripts (run from repo root)
+python3 research_quick_wins.py
+python3 research_competitor_gaps.py
+python3 research_performance_matrix.py
+python3 research_priorities_comprehensive.py
+python3 research_serp_analysis.py
+python3 research_topic_clusters.py
+python3 research_trending.py
+python3 seo_baseline_analysis.py
+python3 seo_bofu_rankings.py
+python3 seo_competitor_analysis.py
+
+# Test API connectivity
+python3 test_dataforseo.py
+```
+
+## Content Pipeline
+
+`topics/` (ideas) → `research/` (briefs) → `drafts/` (articles) → `review-required/` (pending review) → `published/` (final)
+
+Rewrites go to `rewrites/`. Landing pages go to `landing-pages/`. Audits go to `audits/`. Repurposed content goes to `repurposed/`.
+
+## Context Files
+
+`context/` contains brand guidelines that inform all content generation:
+- `brand-voice.md` - Tone, messaging pillars
+- `style-guide.md` - Grammar, formatting standards
+- `seo-guidelines.md` - Keyword and structure rules
+- `internal-links-map.md` - Key pages for internal linking
+- `features.md` - Product features
+- `competitor-analysis.md` - Competitive intelligence
+- `cro-best-practices.md` - Conversion optimization guidelines
+- `ai-citation-targets.md` - Directories/platforms where your brand should be cited by AI tools
+- `reddit-strategy.md` - Reddit engagement strategy for AI SEO and community visibility
+
+## WordPress Integration
+
+Publishing uses the WordPress REST API with a custom MU-plugin (`wordpress/seo-machine-yoast-rest.php`) that exposes Yoast SEO fields. Articles are published in WordPress block format (HTML comments in Markdown files).
+
+<!-- vault-layers:begin (managed by ops/vault-deploy-skills, do not edit) -->
+## Vault layers (SEOM)
+
+Generated by ops/vault-deploy-skills from ~/tvault/Meta/skills-map.conf.
+Rules: ~/tvault/Meta/Layers.md.
+
+- **Global context** (every agent, already loaded): `~/tvault/Global/AGENTS.md`.
+  Claude Code loads it because `~/.claude/CLAUDE.md` is a symlink to it; Codex
+  loads it as `~/.codex/AGENTS.md`. No `@` import line here on purpose: measured
+  2026-09-13, a CLAUDE.md import silently resolves to nothing outside the repo.
+- **Project context** (this project only): `~/tvault/Projects/SEOM/AGENTS.project.md`.
+  Open it for durable facts and past decisions. Claude Code also has this
+  directory as the `project-context` skill.
+- Anything under `~/tvault/Projects/` for another code is **out of scope**.
+
+### Skills available to this project
+
+- `seo` - Use when doing SEO, GEO or AEO work - technical audits, indexing problems, local SEO, content pruning, traffic-collapse diagnosis, AI-citation optimisation. This is an index of the vault's SEO case studies and playbooks; load only the linked note that matches the task, never all of them.
+  `~/tvault/Skills/SEO/SKILL.md`
+<!-- vault-layers:end -->

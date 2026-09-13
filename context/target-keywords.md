@@ -1,6 +1,6 @@
 # Target Keywords & Topic Clusters
 
-This document organises Concept Digital's target keywords by topic cluster for strategic content planning and SEO optimisation. Concept Digital (conceptdigital.com) is a London-based custom software development and staff augmentation firm serving CTOs, founders, and product leaders across fintech, healthcare, logistics, e-commerce, retail, and enterprise.
+This document organises Conceptdigital's target keywords by topic cluster for strategic content planning and SEO optimisation. Conceptdigital (conceptdigital.com) is a London-based custom software development and staff augmentation firm serving CTOs, founders, and product leaders across fintech, healthcare, logistics, e-commerce, retail, and enterprise.
 
 ---
 
@@ -219,13 +219,13 @@ These terms cut across multiple clusters and are suited for landing pages or pil
 
 1. **"Bespoke" + "Custom" dual targeting:** UK buyers use "bespoke software development" alongside "custom software development" — both variants should appear in page copy, H-tags, and metadata across Cluster 2 content.
 
-2. **London + Global positioning:** Pillar pages should assert London headquarters (24 Wharf Road, N1) for local trust signals while cluster content covers nearshore and offshore delivery to capture global buyer intent. Concept Digital recruits from 13 countries, which is a differentiator worth making explicit in outsourcing content.
+2. **London + Global positioning:** Pillar pages should assert London headquarters (24 Wharf Road, N1) for local trust signals while cluster content covers nearshore and offshore delivery to capture global buyer intent. Conceptdigital recruits from 13 countries, which is a differentiator worth making explicit in outsourcing content.
 
 3. **Vertical-specific cluster pages:** Given industry depth across fintech, healthcare, logistics, retail, insurance, and government, add vertical landing pages under each cluster (e.g., "custom software development for fintech London," "staff augmentation for healthcare UK") to capture lower-competition, high-intent long-tails. Existing capability pages at `/capabilities/` support internal linking for this approach.
 
 4. **Comparison content is a gap:** Pages comparing engagement models (staff augmentation vs dedicated team, nearshore vs offshore, outsource vs in-house hire) attract mid-funnel buyers in active vendor evaluation. Competitors such as Cleveroad and Andersen Lab already dominate several of these queries.
 
-5. **CTO / founder persona content:** Blog posts targeting non-technical founder pain points — how to work with a dev agency, how to hire developers without a CTO, how to validate an MVP — funnel into both the MVP and CTO-as-a-Service clusters. Concept Digital's executive credentials (Cambridge engineering, McKinsey background) and senior advisor bench (including ex-Goldman Sachs engineer Ali McMaster and an AI Security Institute PhD researcher) can be cited as credibility signals in this content.
+5. **CTO / founder persona content:** Blog posts targeting non-technical founder pain points — how to work with a dev agency, how to hire developers without a CTO, how to validate an MVP — funnel into both the MVP and CTO-as-a-Service clusters. Conceptdigital's executive credentials (Cambridge engineering, McKinsey background) and senior advisor bench (including ex-Goldman Sachs engineer Ali McMaster and an AI Security Institute PhD researcher) can be cited as credibility signals in this content.
 
 6. **PAA-first content strategy:** Google's People Also Ask boxes for this space are dominated by informational content. Structured FAQ sections using the questions listed in each cluster above can capture featured snippet positions and increase probability of AI-cited sourcing.
 
@@ -253,7 +253,7 @@ These terms cut across multiple clusters and are suited for landing pages or pil
 
 ### Content publishers: Cleveroad and Riseup Labs
 - Both rank for informational queries such as "staff augmentation vs outsourcing," "how to outsource software development," and "top software development outsourcing companies UK 2026"
-- Gap opportunity: Publish structured comparison and FAQ content targeting these mid-funnel informational queries with conversion CTAs linking to Concept Digital service pages.
+- Gap opportunity: Publish structured comparison and FAQ content targeting these mid-funnel informational queries with conversion CTAs linking to Conceptdigital service pages.
 
 ---
 
